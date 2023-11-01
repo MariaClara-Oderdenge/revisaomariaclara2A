@@ -1,16 +1,15 @@
 :root{
     --cor-de-fundo: #b6c2f7;
+    --PaleGoldenrod:#EEE8AA
 
 }
 
 body{
     background-color: var(--cor-de-fundo);
+    border: 6px dashed var(--PaleGoldenrod) ;
 
 }
 
 .imagem1{
     width: 30%;
-    display: block;
-    margin-left: 14%;
-  
 }
