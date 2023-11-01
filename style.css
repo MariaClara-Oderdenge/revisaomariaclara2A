@@ -10,5 +10,7 @@ body{
 
 .imagem1{
     width: 20%;
+    display: block;
+    margin-left: 1em;
   
 }
