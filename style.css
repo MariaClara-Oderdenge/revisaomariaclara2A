@@ -1,21 +1,19 @@
-:root{
-    --cor-de-fundo: #b6c2f7;
-    --PaleGoldenrod:#EEE8AA
-}
-
 body{
-    background-color: var(--cor-de-fundo);
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: ;
-    font-size: 20px ;
-    align-items: ;
-    display: ;
-    border: 5px dashed var(--PaleGoldenrod);
+    background-color: #b6c2f7;
+    font-family:"Helvetica";
+    font-weight: 400;
+    font-size: 20px;
+    color:black;
+    text-align: center
+    line-height: 1.5;
+    border: 5px dashed #EEE8AA;
+
 }
 
 .imagem1{
     width: 30%;
 }
+
 h2{
     color: black ;
     background-color:#EEE8AA ;
