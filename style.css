@@ -19,3 +19,8 @@ h2{
     background-color:#EEE8AA ;
     text-align: center;
 }
+
+iframe{
+    display: block;
+    margin: auto;
+}
