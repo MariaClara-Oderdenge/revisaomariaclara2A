@@ -1,6 +1,5 @@
 body{
-    background-color: #b6c2f7;
-    background-image: linear-gradient();
+    background: linear-gradient(#7f93ef,#b6c2f7);
     font-family:"Helvetica";
     font-weight: 400;
     font-size: 20px;
